@@ -1,0 +1,15 @@
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Cadastro Series .Net\bin\Debug\net6.0\App Cadastro Series .Net.exe
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Cadastro Series .Net\bin\Debug\net6.0\App Cadastro Series .Net.deps.json
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Cadastro Series .Net\bin\Debug\net6.0\App Cadastro Series .Net.runtimeconfig.json
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Cadastro Series .Net\bin\Debug\net6.0\App Cadastro Series .Net.dll
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Cadastro Series .Net\bin\Debug\net6.0\App Cadastro Series .Net.pdb
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Cadastro Series .Net\obj\Debug\net6.0\App Cadastro Series .Net.csproj.AssemblyReference.cache
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Cadastro Series .Net\obj\Debug\net6.0\App Cadastro Series .Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Cadastro Series .Net\obj\Debug\net6.0\App Cadastro Series .Net.AssemblyInfoInputs.cache
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Cadastro Series .Net\obj\Debug\net6.0\App Cadastro Series .Net.AssemblyInfo.cs
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Cadastro Series .Net\obj\Debug\net6.0\App Cadastro Series .Net.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Cadastro Series .Net\obj\Debug\net6.0\App Cadastro Series .Net.dll
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Cadastro Series .Net\obj\Debug\net6.0\refint\App Cadastro Series .Net.dll
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Cadastro Series .Net\obj\Debug\net6.0\App Cadastro Series .Net.pdb
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Cadastro Series .Net\obj\Debug\net6.0\App Cadastro Series .Net.genruntimeconfig.cache
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Cadastro Series .Net\obj\Debug\net6.0\ref\App Cadastro Series .Net.dll
